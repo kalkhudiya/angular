@@ -1,2 +1,2 @@
 hello world
-add a new line
+this is line 2
